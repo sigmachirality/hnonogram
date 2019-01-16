@@ -6,5 +6,10 @@ A nonogram solver written in Haskell. Whether I intend this to be a GUI based ap
 ## When will it work?
 I dunno. This is something for me to work on when I'm bored.
 
+## Goals
+- Convert from nonogram to constraint matrices
+- Solve constraint matrices for nonograms
+- Intuitive GUI
+
 ## Where'd you get the algorithms?
 [Here.](https://www.sciencedirect.com/science/article/pii/S0166218X14000080)
